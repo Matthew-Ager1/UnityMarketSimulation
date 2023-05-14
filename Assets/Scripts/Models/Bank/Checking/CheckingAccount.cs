@@ -6,6 +6,7 @@ namespace Models.Bank
 {
     public class CheckingAccount
     {
+        //test
         private float _balance;
         public float Balance
         {
